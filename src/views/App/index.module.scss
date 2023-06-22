@@ -1,0 +1,16 @@
+.article {
+    min-width: 600px;
+    padding: 20px 55px 30px;
+    background-color: white;
+    border-radius: 20px;
+
+    &Title {
+        font-size: 40px;
+        margin-bottom: 0.3em;
+        text-align: center;
+    }
+
+    &Text {
+        text-align: center;
+    }
+}
