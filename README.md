@@ -1,12 +1,13 @@
 # ToDoList
 
-Технологии:
+<B>Технологии:<B>
 * React
 * TypeScript
 * Zustand(state manager)
 * хранилище LocalStorage
 * сборка на ViteJS
 
+<B>Функционал:<B>
 * Добавление, редактирование, удаление задач
 * Сохранение задач в localStorage
 
