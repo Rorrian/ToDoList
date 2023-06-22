@@ -1,5 +1,4 @@
 import create, { State, StateCreator } from "zustand"
-import { devtools } from "zustand/middleware"
 
 import { generateId } from '../helpers'
 
